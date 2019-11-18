@@ -1,0 +1,11 @@
+{
+	"client":{
+		"cp_id":"890852200000000072",
+		"product_id":"9105385871708242072",
+		"client_id":"233125214869783744",
+		"client_secret":"53AF8CAF04EFF5A086A608F2936489933C3A93D79ACA1E033B8C7BD401DD446D",
+		"app_id":"101377691",
+		"package_name":"com.huawei.hmspush"
+	},
+	"configuration_version":"1.0"
+}
